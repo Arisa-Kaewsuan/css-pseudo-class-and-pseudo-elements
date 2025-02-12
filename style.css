@@ -1,1 +1,18 @@
 /* Start coding here */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input:disabled{
+    background-color: lightgray;
+}
+
+input:hover {
+    border: 2px solid khaki;
+}
+
+button:hover{
+    color: pink;
+}
